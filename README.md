@@ -1,2 +1,2 @@
-# pinnackl
+# Pinnackl
 A media platform.
